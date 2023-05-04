@@ -1,1 +1,1 @@
-# Learning TypeScript
+#### This repository contains my journey in learning TypeScript. Due to me being proficient in JavaScript, I was able to learn fast. These are all my programs, tutorials, and notes that I have taken. Enjoy!
